@@ -1,0 +1,70 @@
+h1 {
+  color: dimgray;
+  background-color:seashell;
+  text-align: center;
+  padding-top: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+}
+nav {
+  text-align: center;
+}
+form {
+  text-align: center;
+}
+figure {
+  color: dimgray;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+h2 {
+  color: dimgray;
+  text-align: center;
+}
+h3 {
+  color: gray;
+  text-align: center;
+}
+h4 {
+  color: gray;
+  text-align: center;
+}
+p {
+  font-size: 120%;
+  color: gray;
+  text-align: center;
+}
+ol {
+  text-align: center;
+  list-style-position: inside;
+}
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+.center {
+  margin-left:auto;
+  margin-right:auto;
+}
+article {
+    text-align: center;
+}
+img {
+  margin: auto;
+}
+a:visited {
+  color: peru;
+}
+a:hover {
+  color: olivedrab;
+}
+footer {
+  text-align: center;
+    color: dimgray;
+}
